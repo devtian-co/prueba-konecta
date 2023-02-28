@@ -1,0 +1,13 @@
+/* Prueba técnica PHP Sebastian Henao */
+
+/* TEAM */
+	Creator: Sebastian Henao
+	Contact: stian.henao[at]gmail.com
+	Location: Cali, Colombia 
+	
+/* SITE */
+	Last update: 28/02/2023
+	Language: Español
+	Standars: HTML5, CSS3, JavaScript, PHP
+	Components: FontAwesome
+	Software: Visual Code Studio, Edge, Fireworks
