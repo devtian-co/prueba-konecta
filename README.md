@@ -1,6 +1,6 @@
 # Prueba técnica PHP de Sebastian Henao - Konecta
 
-Prueba técnica realizada en PHP nativo, con conexión PDO a base de datos MySQL, interfaz sin uso de plantillas, diseñada 100% desde 0 con HTML5 y CSS3, interactividad añadida con Vanilla JS.
+Prueba técnica realizada en PHP nativo, con conexión PDO a base de datos MySQL, interfaz sin uso de plantillas, diseñada 100% desde 0 con HTML5 y CSS3, interactividad añadida con Vanilla JS. La librería de estilos `devtian.css` ha sido creada por mi.
 
 ## Instalación y acceso
 
